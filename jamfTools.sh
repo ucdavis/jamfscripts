@@ -9,7 +9,7 @@ Aggie Desktop Jamf Toolbox
 Written by Samuel Mosher, Social Sciences IT
 The Regents of the University of California, Davis campus. All rights reserved. 
 
-Updated 10/27/2018
+Updated 11/02/2018
 
 ### INSTRUCTIONS ON USE ###
 
